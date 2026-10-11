@@ -1,0 +1,95 @@
+{
+  "entries": [
+    {
+      "date": "2026-10-11",
+      "type": "news",
+      "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact",
+      "summary": "When we think about a diamond, we often think about a material whose value comes from its perfection. In my research, however, I am interested in something almost opposite: the tiny imperfections inside diamonds. These atomic-scale defects can give diamonds new optical and…",
+      "url": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-10",
+      "collected_at": "2026-10-11",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "news",
+      "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
+      "summary": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are much harder to categorize, overturning traditional notions…",
+      "url": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-10",
+      "collected_at": "2026-10-11",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "news",
+      "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
+      "summary": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov–Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can acquire a…",
+      "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-10",
+      "collected_at": "2026-10-11",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "paper",
+      "title": "You should advertise your conference",
+      "summary": "Nature Physics, Published online: 09 October 2026; doi:10.1038/s41567-026-03507-w Participation in conferences is a great way to learn about a new field and make connections across international and disciplinary boundaries. However, that can only happen if people know where to…",
+      "url": "https://www.nature.com/articles/s41567-026-03507-w",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-09",
+      "collected_at": "2026-10-11",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "paper",
+      "title": "Capture CO 2 concentration",
+      "summary": "Nature Physics, Published online: 09 October 2026; doi:10.1038/s41567-026-03474-2 Enhanced concentrations of greenhouse gases in the atmosphere drive climate change. Oksana Tarasova explains how they are measured.",
+      "url": "https://www.nature.com/articles/s41567-026-03474-2",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-09",
+      "collected_at": "2026-10-11",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-11",
+      "type": "paper",
+      "title": "Order from chaos with adaptive circuits on quantum hardware",
+      "summary": "Nature Physics, Published online: 09 October 2026; doi:10.1038/s41567-026-03470-6 Controlling quantum chaos requires using measurement and feedback that survive noise and decoherence. Such control is now achieved in a superconducting quantum processor and reveals a critical…",
+      "url": "https://www.nature.com/articles/s41567-026-03470-6",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-09",
+      "collected_at": "2026-10-11",
+      "verification_status": "feed-collected"
+    }
+  ],
+  "fetched": "2026-10-11T00:09:17+00:00"
+}
