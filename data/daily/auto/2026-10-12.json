@@ -61,7 +61,67 @@
       "published": "2026-10-12",
       "collected_at": "2026-10-12",
       "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-12",
+      "type": "news",
+      "title": "From nonmagnetic to magnetic: A 2D semiconductor with electrically tunable magnetism",
+      "summary": "Researchers from the National University of Singapore (NUS), in collaboration with scientists from institutions in Switzerland, the Czech Republic and Germany, have demonstrated a way to introduce magnetism into an otherwise nonmagnetic two-dimensional (2D) semiconductor and…",
+      "url": "https://phys.org/news/2026-10-nonmagnetic-magnetic-2d-semiconductor-electrically.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-12",
+      "collected_at": "2026-10-12",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-12",
+      "type": "news",
+      "title": "One step closer to quantum computers that can correct their own mistakes",
+      "summary": "Researchers from Rutgers, IBM and collaborating institutions have shown that a quantum computer can check what is happening inside it and respond while it is running, repeatedly resetting parts of the system to bring chaotic behavior under control.",
+      "url": "https://phys.org/news/2026-10-closer-quantum.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-12",
+      "collected_at": "2026-10-12",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-12",
+      "type": "paper",
+      "title": "Morphogenesis of a stratified cell mound at a vortex defect",
+      "summary": "Nature Physics, Published online: 12 October 2026; doi:10.1038/s41567-026-03427-9 In cell monolayers with a vortex-like orientation defect, cells converge towards the core of the defect and form a highly organized three-dimensional mound. This mechanism may be relevant for…",
+      "url": "https://www.nature.com/articles/s41567-026-03427-9",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-12",
+      "collected_at": "2026-10-12",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-12",
+      "type": "paper",
+      "title": "Chip-mediated manipulation of photonic quantum skyrmions",
+      "summary": "Nature Physics, Published online: 12 October 2026; doi:10.1038/s41567-026-03487-x Although photonic quantum skyrmions can be generated as entangled or single-photon states, a means to switch between the two is required for quantum information processing. Now, entangled…",
+      "url": "https://www.nature.com/articles/s41567-026-03487-x",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-12",
+      "collected_at": "2026-10-12",
+      "verification_status": "feed-collected"
     }
   ],
-  "fetched": "2026-10-12T13:01:19+00:00"
+  "fetched": "2026-10-12T22:35:31+00:00"
 }
