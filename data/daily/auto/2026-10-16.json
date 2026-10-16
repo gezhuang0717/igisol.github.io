@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "date": "2026-10-16",
+      "type": "news",
+      "title": "New spectroscopy method enables direct comparisons of nuclear sizes across heavy elements",
+      "summary": "The size of a nucleus (nuclear charge radius) is an important physical quantity that reflects the arrangement of protons and neutrons within the nucleus. Particularly in deformed nuclei, such as those of rare-earth elements, examining changes in the charge radius can deepen our…",
+      "url": "https://phys.org/news/2026-10-spectroscopy-method-enables-comparisons-nuclear.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "news",
+      "title": "Silicon qubits surpass 99.99% gate fidelity while operating three at once",
+      "summary": "Silicon spin qubits are a promising platform for building scalable quantum computers as they are compatible with the semiconductor manufacturing technologies used to produce today's computer chips. However, they have an important weakness: silicon spin qubits typically lose…",
+      "url": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "Precision Hypernuclear Structure from Interaction Cross Sections",
+      "summary": "Author(s): Carlos A. Bertulani We establish interaction cross sections as a quantitative structural observable for hypernuclei. Using the hypertriton, $_{\\mathrm{Λ}}^{3}\\mathrm{H}$, as the most stringent benchmark, microscopic three-body wave functions are combined with a…",
+      "url": "http://link.aps.org/doi/10.1103/vzp5-ttyh",
+      "source": "Physical Review Letters — Nuclear Physics",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "Direct transfer to $^{46,48}\\mathrm{K}$ as a survey of the $π({s}_{1/2})\\text{−}ν(sdpf)$ interaction",
+      "summary": "Author(s): C. J. Paxman et al. Nucleon-adding and -removing transfer reactions provide a unique experimental window into the anatomy of the shell-model picture of atomic nuclei. The authors put the neutron-removing transfer reaction 47K(d,t) and the neutron-adding counterpart…",
+      "url": "http://link.aps.org/doi/10.1103/z145-rfy7",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
+    }
+  ],
+  "fetched": "2026-10-16T06:19:06+00:00"
+}
