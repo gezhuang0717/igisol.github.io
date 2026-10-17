@@ -136,7 +136,69 @@
       "published": "2026-10-15",
       "collected_at": "2026-10-17",
       "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "news",
+      "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
+      "summary": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive.",
+      "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-17",
+      "collected_at": "2026-10-17",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "paper",
+      "title": "Antimagnetic rotation of neutron-deficient Cd isotopes",
+      "summary": "Author(s): Zheng Qiao, Ke-Yan Ma, and Guo-Mo Zeng The antimagnetic rotation (AMR) on the neutron-deficient Cd isotopes is investigated. The observed negative-parity yrast band with $α=−1/2$ in $^{103}\\mathrm{Cd}$ and the positive-parity band with $α=0$ in $^{104}\\mathrm{Cd}$…",
+      "url": "http://link.aps.org/doi/10.1103/plkq-hhtl",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-16",
+      "collected_at": "2026-10-17",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "paper",
+      "title": "Production cross sections of neutron-rich nuclides near the $N=126$ neutron-shell closure from 1000 MeV/u $^{208}\\mathrm{Pb}$ on $^{9}\\mathrm{Be}$",
+      "summary": "Author(s): Suraj Kumar Singh et al. (HISPEC/DESPEC Collaboration, Super-FRS Experiment Collaboration) The production cross sections of neutron-rich nuclides near the $N=126$ neutron shell closure have been measured for the elements ranging from tungsten ($Z=74$) to gold…",
+      "url": "http://link.aps.org/doi/10.1103/p27s-fp1j",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-16",
+      "collected_at": "2026-10-17",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-17",
+      "type": "paper",
+      "title": "Monolayer van der Waals kagome lattice for high-temperature flat-band physics",
+      "summary": "Nature Physics, Published online: 15 October 2026; doi:10.1038/s41567-026-03492-0 The experimental realization of intrinsic 2D kagome materials with controllable flat bands has remained challenging. Now a van der Waals kagome material family is shown to host an isolated,…",
+      "url": "https://www.nature.com/articles/s41567-026-03492-0",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-17",
+      "verification_status": "feed-collected"
     }
   ],
-  "fetched": "2026-10-17T06:06:35+00:00"
+  "fetched": "2026-10-17T22:57:03+00:00"
 }
