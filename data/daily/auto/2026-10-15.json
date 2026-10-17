@@ -265,6 +265,38 @@
       "published": "2026-10-15",
       "collected_at": "2026-10-15",
       "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-15",
+      "type": "paper",
+      "title": "Precision Hypernuclear Structure from Interaction Cross Sections",
+      "summary": "Author(s): Carlos A. Bertulani We establish interaction cross sections as a quantitative structural observable for hypernuclei. Using the hypertriton, $_{\\mathrm{Λ}}^{3}\\mathrm{H}$, as the most stringent benchmark, microscopic three-body wave functions are combined with a…",
+      "url": "http://link.aps.org/doi/10.1103/vzp5-ttyh",
+      "source": "Physical Review Letters — Nuclear Physics",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-15",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-15",
+      "type": "paper",
+      "title": "Direct transfer to $^{46,48}\\mathrm{K}$ as a survey of the $π({s}_{1/2})\\text{−}ν(sdpf)$ interaction",
+      "summary": "Author(s): C. J. Paxman et al. Nucleon-adding and -removing transfer reactions provide a unique experimental window into the anatomy of the shell-model picture of atomic nuclei. The authors put the neutron-removing transfer reaction 47K(d,t) and the neutron-adding counterpart…",
+      "url": "http://link.aps.org/doi/10.1103/z145-rfy7",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-15",
+      "verification_status": "feed-collected"
     }
   ],
   "fetched": "2026-10-15T19:22:15+00:00"

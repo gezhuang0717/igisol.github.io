@@ -211,6 +211,98 @@
       "lang": "en",
       "collected_at": "2026-10-16",
       "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "Reaction–diffusion competition drives anomalous relaxation of vitrimers",
+      "summary": "Nature Physics, Published online: 15 October 2026; doi:10.1038/s41567-026-03468-0 Vitrimers—polymers that form covalent networks—show glassy behaviour with viscosity decoupled from structural relaxation. This decoupling is now found to originate from a competition between…",
+      "url": "https://www.nature.com/articles/s41567-026-03468-0",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "Simultaneous high-fidelity single-qubit gates in a spin qubit array",
+      "summary": "Nature Physics, Published online: 15 October 2026; doi:10.1038/s41567-026-03466-2 Quantum computers require simultaneous control of multiple qubits, which is challenging to achieve in nanoscale semiconductor devices. Now high-fidelity parallel operations have been demonstrated…",
+      "url": "https://www.nature.com/articles/s41567-026-03466-2",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "Monolayer van der Waals kagome lattice for high-temperature flat-band physics",
+      "summary": "Nature Physics, Published online: 15 October 2026; doi:10.1038/s41567-026-03492-0 The experimental realization of intrinsic 2D kagome materials with controllable flat bands has remained challenging. Now a van der Waals kagome material family is shown to host an isolated,…",
+      "url": "https://www.nature.com/articles/s41567-026-03492-0",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-15",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "Most Degenerate Chiral Doublet Bands in Nuclei",
+      "summary": "Author(s): W. Z. Xu (许文政) et al. A doublet-band structure consisting of two $\\mathrm{Δ}I=1$ bands connected by multiple interband transitions was identified in $^{112}\\mathrm{Sb}$, with an average energy difference of only 36 keV between the two bands. It represents the most…",
+      "url": "http://link.aps.org/doi/10.1103/4lcf-657x",
+      "source": "Physical Review Letters — Nuclear Physics",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-16",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "Nonlocality in prior-form distorted-wave Born approximation",
+      "summary": "Author(s): Jin Lei and Zhongzhou Ren In the distorted wave Born approximation, the optical potentials of the entrance and exit channels are constrained by elastic scattering only on the energy shell, so their interior behavior, which a local Woods-Saxon form fixes by…",
+      "url": "http://link.aps.org/doi/10.1103/8lpg-kcff",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-16",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "The extraction of work from hidden degrees of freedom",
+      "summary": "Nature Physics, Published online: 16 October 2026; doi:10.1038/s41567-026-03442-w According to the laws of thermodynamics, information can be converted into energy. An information engine that harnesses environmental memory and exhibits non-Markovian dynamics has now been…",
+      "url": "https://www.nature.com/articles/s41567-026-03442-w",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-16",
+      "collected_at": "2026-10-16",
+      "verification_status": "feed-collected"
     }
   ],
   "fetched": "2026-10-16T19:00:55+00:00"

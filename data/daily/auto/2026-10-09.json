@@ -212,6 +212,36 @@
       "facility_ids": [
         "ganil-spiral2"
       ]
+    },
+    {
+      "date": "2026-10-09",
+      "type": "news",
+      "title": "First Nuclear Clocks Kick Off a Precision Race",
+      "summary": "Author(s): Matteo Rini Two independent teams have built operating nuclear clocks—devices that might one day rival the best atomic clocks and offer new ways to probe fundamental physics. [Physics 19, 139] Published Wed Oct 07, 2026",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.139",
+      "source": "APS Physics — news",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-07",
+      "collected_at": "2026-10-09",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "paper",
+      "title": "Order from chaos with adaptive circuits on quantum hardware",
+      "summary": "Nature Physics, Published online: 09 October 2026; doi:10.1038/s41567-026-03470-6 Controlling quantum chaos requires using measurement and feedback that survive noise and decoherence. Such control is now achieved in a superconducting quantum processor and reveals a critical…",
+      "url": "https://www.nature.com/articles/s41567-026-03470-6",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-09",
+      "collected_at": "2026-10-09",
+      "verification_status": "feed-collected"
     }
   ],
   "fetched": "2026-10-09T16:34:04+00:00"
