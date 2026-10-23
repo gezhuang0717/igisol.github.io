@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-10-23T06:27:04+00:00",
+  "checked_at": "2026-10-23T19:31:56+00:00",
   "feeds": [
     {
       "source": "arXiv — ion traps & mass spectrometry",
       "status": "PASS",
       "matched": 3,
-      "new": 1
+      "new": 0
     },
     {
       "source": "arXiv — nuclear masses, Q-values & astrophysics",
@@ -17,7 +17,7 @@
       "source": "INSPIRE-HEP Jobs — nuclear physics",
       "status": "PASS",
       "matched": 9,
-      "new": 3
+      "new": 0
     },
     {
       "source": "APS Physics — news",
@@ -29,7 +29,7 @@
       "source": "Phys.org — nuclear physics",
       "status": "PASS",
       "matched": 30,
-      "new": 2
+      "new": 3
     },
     {
       "source": "Physical Review Letters — Nuclear Physics",
