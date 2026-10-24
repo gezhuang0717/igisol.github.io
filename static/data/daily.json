@@ -1,6 +1,96 @@
 {
   "entries": [
     {
+      "date": "2026-10-24",
+      "type": "news",
+      "title": "Tiny Particles Charge Like Capacitors",
+      "summary": "Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections of particles. [Physics 19, 143] Published Fri Oct 23, 2026",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.143",
+      "source": "APS Physics — news",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-23",
+      "collected_at": "2026-10-24",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-24",
+      "type": "news",
+      "title": "Counting magnetic flux quanta offers new way to measure photon numbers",
+      "summary": "Researchers at AIST have directly observed magnetic flux quanta generated in a superconductor by photon absorption and demonstrated a new principle of photon detection that identifies the number of photons based on the number of these flux quanta.",
+      "url": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-23",
+      "collected_at": "2026-10-24",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-24",
+      "type": "news",
+      "title": "Plain silicon grating reveals a hidden 'twist' in light from electron beams",
+      "summary": "In 1953, two physicists showed that an electron beam skimming past a grating emits light whose color depends only on the electron's speed and the grating's spacing. Known as Smith-Purcell radiation, this phenomenon has become a useful tool for building compact, tunable light…",
+      "url": "https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-23",
+      "collected_at": "2026-10-24",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-24",
+      "type": "paper",
+      "title": "Maxwell’s demon with memory",
+      "summary": "Nature Physics, Published online: 23 October 2026; doi:10.1038/s41567-026-03509-8 Maxwell’s demon may produce work using the information it obtains by measuring the system as fuel. Now, it is shown that the amount of produced work increases if the demon takes information about…",
+      "url": "https://www.nature.com/articles/s41567-026-03509-8",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-23",
+      "collected_at": "2026-10-24",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-24",
+      "type": "paper",
+      "title": "Particle collisions on a quantum computer",
+      "summary": "Nature Physics, Published online: 23 October 2026; doi:10.1038/s41567-026-03490-2 Elementary particle physics rests on the discovery of particles produced in high-energy collider experiments. Now, a model collision above the threshold for particle production has been simulated…",
+      "url": "https://www.nature.com/articles/s41567-026-03490-2",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-23",
+      "collected_at": "2026-10-24",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-24",
+      "type": "paper",
+      "title": "Beating the break-even point with autonomous quantum error correction",
+      "summary": "Nature Physics, Published online: 23 October 2026; doi:10.1038/s41567-026-03486-y Conventional quantum error correction requires repeated measurements and real-time feedback, which are technically complex. An autonomous implementation that eliminates these while beating the…",
+      "url": "https://www.nature.com/articles/s41567-026-03486-y",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-23",
+      "collected_at": "2026-10-24",
+      "verification_status": "feed-collected"
+    },
+    {
       "date": "2026-10-23",
       "type": "preprint",
       "title": "Lifetime of the singly charged $^{229}$Th nuclear isomer",
@@ -6235,12 +6325,12 @@
     }
   ],
   "health": {
-    "checked_at": "2026-10-23T19:31:56+00:00",
+    "checked_at": "2026-10-24T06:24:10+00:00",
     "feeds": [
       {
         "source": "arXiv — ion traps & mass spectrometry",
         "status": "PASS",
-        "matched": 3,
+        "matched": 2,
         "new": 0
       },
       {
@@ -6252,20 +6342,20 @@
       {
         "source": "INSPIRE-HEP Jobs — nuclear physics",
         "status": "PASS",
-        "matched": 9,
+        "matched": 8,
         "new": 0
       },
       {
         "source": "APS Physics — news",
         "status": "PASS",
         "matched": 21,
-        "new": 0
+        "new": 1
       },
       {
         "source": "Phys.org — nuclear physics",
         "status": "PASS",
         "matched": 30,
-        "new": 3
+        "new": 2
       },
       {
         "source": "Physical Review Letters — Nuclear Physics",
@@ -6282,13 +6372,14 @@
       {
         "source": "Physical Review C",
         "status": "PASS",
-        "matched": 11,
+        "matched": 10,
         "new": 0
       },
       {
         "source": "Nature Physics",
-        "status": "FAILED",
-        "error": "not well-formed (invalid token): line 14, column 4"
+        "status": "PASS",
+        "matched": 7,
+        "new": 3
       },
       {
         "source": "TRIUMF news",
