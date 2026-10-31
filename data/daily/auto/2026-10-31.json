@@ -91,7 +91,82 @@
       "published": "2026-10-30",
       "collected_at": "2026-10-31",
       "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-31",
+      "type": "news",
+      "title": "Talking to Superconducting Qubits with Millimeter Waves",
+      "summary": "Author(s): Sophia Chen A new device uses millimeter-wave radiation to accurately read the states of superconducting qubits without altering them. [Physics 19, s140] Published Fri Oct 30, 2026",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s140",
+      "source": "APS Physics — news",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-30",
+      "collected_at": "2026-10-31",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-31",
+      "type": "news",
+      "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
+      "summary": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into particles and their antimatter partners. A particle's antimatter…",
+      "url": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-31",
+      "collected_at": "2026-10-31",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-31",
+      "type": "news",
+      "title": "Four superconducting cables link two large quantum processors into one",
+      "summary": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen,…",
+      "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-31",
+      "collected_at": "2026-10-31",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-31",
+      "type": "paper",
+      "title": "Automated inverse design of metainterfaces with tailored friction laws",
+      "summary": "Nature Physics, Published online: 30 October 2026; doi:10.1038/s41567-026-03503-0 Understanding friction between contacting surfaces is important to improve device performance. Now a method is shown to discover materials that offer on-demand frictional behaviour using inverse…",
+      "url": "https://www.nature.com/articles/s41567-026-03503-0",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-30",
+      "collected_at": "2026-10-31",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-31",
+      "type": "paper",
+      "title": "Motors use biased diffusion to shepherd diffusible proteins on microtubules",
+      "summary": "Nature Physics, Published online: 30 October 2026; doi:10.1038/s41567-026-03489-9 Microtubules are bound by active motors and passively diffusing proteins. Now it is shown that this mixture of active and passive molecules is a realization of rectified Brownian motion in active…",
+      "url": "https://www.nature.com/articles/s41567-026-03489-9",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-30",
+      "collected_at": "2026-10-31",
+      "verification_status": "feed-collected"
     }
   ],
-  "fetched": "2026-10-31T07:27:51+00:00"
+  "fetched": "2026-10-31T19:32:18+00:00"
 }
