@@ -1,6 +1,161 @@
 {
   "entries": [
     {
+      "date": "2026-11-06",
+      "type": "news",
+      "title": "Laser-plasma accelerator could generate bright X-rays for biological imaging, simulations show",
+      "summary": "X-rays with wavelengths between approximately 2.3 and 4.4 nanometers, i.e., in the so-called water window, are particularly well suited to examining biological samples in their natural, aqueous environment. To date, however, it has been technically difficult to access this type…",
+      "url": "https://phys.org/news/2026-11-laser-plasma-generate-bright-rays.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "title": "Pinning down the structure of quark-gluon plasma, the universe's first fluid",
+      "summary": "In the first fraction of a second following the Big Bang, matter existed as a trillion-degree plasma of quarks and gluons—subatomic particles that zinged around at close to the speed of light. This roiling soup lasted for just a few microseconds before the particles coalesced…",
+      "url": "https://phys.org/news/2026-11-pinning-quark-gluon-plasma-universe.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "title": "Electrical control of an unconventional quantum transport state demonstrated in a magnet for the first time",
+      "summary": "Researchers at Tohoku University and the Japan Atomic Energy Agency (JAEA) have successfully controlled a unique quantum phenomenon—the quantum-geometric nonlinear Hall (QgNLH) state—using electric current for the first time. The breakthrough was achieved by revealing and…",
+      "url": "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "title": "How palm orientation shapes spin characteristics in volleyball jump serves",
+      "summary": "A new biomechanical study has uncovered how elite volleyball players control ball spin during jump serves, offering fresh scientific insight into one of the sport's most decisive offensive skills.",
+      "url": "https://phys.org/news/2026-11-palm-characteristics-volleyball.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "title": "Physicist develops detector capable of counting photons for quantum computing",
+      "summary": "Detecting a single photon is a challenge in itself. But what if you also want to know exactly how many photons arrive at a particular point at the same time? Physicist Erik Baalbergen is working on light detectors that can do just that. They form a key building block for the…",
+      "url": "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "paper",
+      "title": "Heavy Quark Transport Is Non-Gaussian beyond Leading Logarithm",
+      "summary": "Author(s): Jean F. Du Plessis and Bruno Scheihing-Hitschfeld We find that heavy quark transport beyond leading logarithm at weak coupling is intrinsically non-Gaussian: the longitudinal momentum transfer distribution has asymmetric exponential tails that are crucial for…",
+      "url": "http://link.aps.org/doi/10.1103/7fd5-1kq5",
+      "source": "Physical Review Letters — Nuclear Physics",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "paper",
+      "title": "Classification of Scissors Rotational Bands in Deformed Nuclei",
+      "summary": "Author(s): Sheng-Nan Wang, Yu Zhang, and P. Van Isacker We propose a classification scheme for rotational bands built on nuclear scissors vibrations, based on a systematic analysis of the competition among distinct collective modes. Our analysis within the proton-neutron…",
+      "url": "http://link.aps.org/doi/10.1103/z6d8-2q1g",
+      "source": "Physical Review Letters — Nuclear Physics",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "paper",
+      "title": "First Measurement of Compton Scattering on $^{3}\\mathrm{He}$ at $\\mathrm{HI}γ\\mathrm{S}$",
+      "summary": "Author(s): J. Zhou et al. (Compton@HI γ S Collaboration) The world’s first Compton scattering measurements on a $^{3}\\mathrm{He}$ target were performed to probe neutron electromagnetic polarizabilities. Differential cross sections were measured at laboratory angles of 40°, 55°,…",
+      "url": "http://link.aps.org/doi/10.1103/gn45-7lpx",
+      "source": "Physical Review Letters — Nuclear Physics",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "paper",
+      "title": "Ab initio calculations of $^{229}\\mathrm{Th}$ band-to-band internal conversion rate in $^{229}\\mathrm{ThO}_{2}$",
+      "summary": "Author(s): Udeshika C. Perera, H. B. Tran Tan, H. W. T. Morgan, Eric R. Hudson, Daniel A. Rehn, and Andrei Derevianko We present an ab initio calculation of the band-to-band internal-conversion rate of the $ℏ{ω}_{\\mathrm{nuc}}≈8.35\\phantom{\\rule{4pt}{0ex}}\\mathrm{eV}$ isomeric…",
+      "url": "http://link.aps.org/doi/10.1103/kdw3-fdyx",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "paper",
+      "title": "Suppression of heavy-ion fusion by slow quasifission",
+      "summary": "Author(s): L. T. Bezzina, E. C. Simpson, D. J. Hinde, M. Dasgupta, J. Buete, K. Banerjee, A. C. Berriman, K. J. Cook, D. Y. Jeung, P. McGlynn, C. Simenel, and B. M. A. Swinton-Bland Heavy-element synthesis hinges on the formation of a compound nucleus — a fully equilibrated…",
+      "url": "http://link.aps.org/doi/10.1103/8x4j-pg8f",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-06",
+      "verification_status": "feed-collected"
+    },
+    {
       "date": "2026-11-05",
       "type": "preprint",
       "title": "Search for the 229Pa Parity Doublet via Internal-Conversion Spectroscopy at FRIB",
@@ -7993,13 +8148,13 @@
     }
   ],
   "health": {
-    "checked_at": "2026-11-05T13:02:29+00:00",
+    "checked_at": "2026-11-06T01:24:36+00:00",
     "feeds": [
       {
         "source": "arXiv — ion traps & mass spectrometry",
         "status": "PASS",
         "matched": 1,
-        "new": 1
+        "new": 0
       },
       {
         "source": "arXiv — nuclear masses, Q-values & astrophysics",
@@ -8010,26 +8165,26 @@
       {
         "source": "INSPIRE-HEP Jobs — nuclear physics",
         "status": "PASS",
-        "matched": 6,
-        "new": 1
+        "matched": 4,
+        "new": 0
       },
       {
         "source": "APS Physics — news",
         "status": "PASS",
         "matched": 21,
-        "new": 1
+        "new": 0
       },
       {
         "source": "Phys.org — nuclear physics",
         "status": "PASS",
         "matched": 30,
-        "new": 3
+        "new": 5
       },
       {
         "source": "Physical Review Letters — Nuclear Physics",
         "status": "PASS",
         "matched": 30,
-        "new": 0
+        "new": 3
       },
       {
         "source": "Physical Review Letters — traps, masses & astrophysics",
@@ -8040,8 +8195,8 @@
       {
         "source": "Physical Review C",
         "status": "PASS",
-        "matched": 8,
-        "new": 0
+        "matched": 10,
+        "new": 2
       },
       {
         "source": "Nature Physics",
@@ -8063,8 +8218,9 @@
       },
       {
         "source": "ECT* news & workshops",
-        "status": "FAILED",
-        "error": "HTTP Error 504: Gateway Timeout"
+        "status": "PASS",
+        "matched": 10,
+        "new": 0
       },
       {
         "source": "IAEA — nuclear science news",
