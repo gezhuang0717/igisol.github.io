@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-11-26T14:58:39+00:00",
+  "checked_at": "2026-11-26T23:59:07+00:00",
   "feeds": [
     {
       "source": "arXiv — ion traps & mass spectrometry",
       "status": "PASS",
       "matched": 3,
-      "new": 1
+      "new": 0
     },
     {
       "source": "arXiv — nuclear masses, Q-values & astrophysics",
@@ -47,7 +47,7 @@
       "source": "Physical Review C",
       "status": "PASS",
       "matched": 9,
-      "new": 1
+      "new": 0
     },
     {
       "source": "Nature Physics",
@@ -63,8 +63,9 @@
     },
     {
       "source": "GANIL news",
-      "status": "FAILED",
-      "error": "<urlopen error timed out>"
+      "status": "PASS",
+      "matched": 10,
+      "new": 0
     },
     {
       "source": "ECT* news & workshops",
@@ -82,7 +83,7 @@
       "source": "Ion Traps Newsletter (iontraps.net)",
       "status": "PASS",
       "matched": 10,
-      "new": 2
+      "new": 1
     }
   ]
 }
